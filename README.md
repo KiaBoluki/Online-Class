@@ -1,19 +1,35 @@
-# Table
+# Form
+محلی برای وارد کردن اطلاعات توسط کاربر
 
-## Table Row : 
-`<tr>`
+## Form Controls
 
-## Tabel Data : 
-`<td>`
+`<form>`
+`// inputs`
+`</form>`
 
-## Table Heading : 
-`<th>`
+## Input
 
-## Table Head : 
-Just for descripting 
+المانهای داخل فرم که مسئولیت دریافت اطلاعات از کاربر را دارند.
 
-## Atributes : 
-### colspan = "" 
-### rowspan = ""
-Merge {n} near cells 
+`<input type="" >`
 
+### attributes:
+- value
+- name
+- placeholder
+
+## textarea
+
+`<textarea></textarea>`
+
+attrbutes:
+- cols
+- rows
+
+
+### types: 
+- text
+- submit
+- number
+- radio (radio button)
+-- اسم همه ی گزینه های مربوط به یک سوال باید همسان باشد
