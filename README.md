@@ -1,6 +1,8 @@
+<head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap" rel="stylesheet">
+</head>
 <body style="font-family: 'Noto Sans Arabic' " >
 # Form
 محلی برای وارد کردن اطلاعات توسط کاربر
