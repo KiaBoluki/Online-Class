@@ -1,9 +1,3 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap" rel="stylesheet">
-</head>
-<body style="font-family: 'Noto Sans Arabic' " >
 # Form
 محلی برای وارد کردن اطلاعات توسط کاربر
 
@@ -84,4 +78,3 @@ POST
 متد POST متد امنتری نسبت به متد GET است به عنوان مثال اگر ما بخواهیم پسورد را برای سرور ارسال کنیم اگر از متد GET
 استفاده کنیم خب کسی که کنار کاربر ایستاده میتواند پسورد کاربر ما را در URL ببیند. 
 
-</body>
