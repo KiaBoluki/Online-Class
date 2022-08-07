@@ -18,21 +18,31 @@
       <label for="username">
         نام کاربری:
       </label>
-      
-      <input type="text" id="username" name="username" placeholder="نام کاربری خود را وارد کنید">
-      
+
+      <input value="adfasdas" type="text" maxlength="20" required id="username" name="username"
+        placeholder="نام کاربری خود را وارد کنید">
       <br><br>
-      
+      <label for="username">
+        ایمیل :
+      </label>
+
+      <input value="asdfasd@adfa" type="email" maxlength="50" required id="email" name="email" placeholder="ایمیل خود را وارد کنید">
+
+      <br><br>
+      <input value="https://github.com" type="url" maxlength="50" required id="github" name="github" placeholder="آدرس گیتهاب خود را وارد کنید">
+
+      <br><br>
+
       <label for="password">
         پسورد یا گذرواژه خود را وارد نمایید.
       </label>
-      
+
       <input type="password" name="password" id="password">
       <br><br>
       <label for="address">
         آدرس محل سکونت خود را وارد نمایید:
       </label>
-      
+
       <textarea name="" id="address" cols="80" rows="10" placeholder="your address"></textarea>
     </fieldset>
 
@@ -41,61 +51,66 @@
         انتخابها
       </legend>
       <br><br>
-      <input type="number" name="birth-year" placeholder="سال تولد خود را انتخاب نمایید">
+      <input min="1350" max="1390" step="10" required type="number" name="birth-year" placeholder="سال تولد خود را انتخاب نمایید">
+
       <br><br>
+
+      <input type="date" name="birthday">
+      <input type="time" name="entry-time">
+      <input type="color" name="fav-color" id="fav-color">
       <p>
         رنگ دلخواه خود را انتخاب نمایید.
       </p>
-      
+
       <input type="radio" value="red" id="first-color" name="favorite-color" checked>
-      
+
       <label for="first-color">
         قرمز
       </label>
-      
-      
+
+
       <input type="radio" value="green" id="second-color" name="favorite-color">
-      
+
       <label for="second-color">
         سبز
       </label>
-      
+
       <input type="radio" value="blue" id="third-color" name="favorite-color">
-      
+
       <label for="third-color">
         آبی
       </label>
-      
+
       <input type="radio" value="yellow" id="forth-color" name="favorite-color">
-      
+
       <label for="forth-color">
         زرد
       </label>
-      
+
       <p>
         شما از چه ماشینی خوشت میاد؟
       </p>
-      
-      
+
+
       <input checked type="checkbox" name="favorite-car" id="bmw" value="BMW">
-      
+
       <label for="bmw">
         ب ام و
       </label>
-      
+
       <input type="checkbox" name="favorite-car" id="benz" value="BEnz">
-      
+
       <label for="benz">بـــنز</label>
       <input checked type="checkbox" name="favorite-car" id="toyota" value="toyota">
-      
+
       <label for="toyota">تویوتا</label>
-      
-      
+
+
       <br><br>
     </fieldset>
-      <label for="ostan">
-        استان محل سکونت خود را انتخاب نمایی:
-      </label>
+    <label for="ostan">
+      استان محل سکونت خود را انتخاب نمایی:
+    </label>
     <select name="ostan" id="ostan" multiple>
       <option value="THR">تهران</option>
       <option value="MZD" selected>مازندران</option>
@@ -135,9 +150,9 @@
     </label>
 
     <input type="file" name="ax" id="ax">
-    <button name="" id="" >کلیک کنید</button>
+    <button name="" id="">کلیک کنید</button>
     <br><br>
-    <input type="hidden"  name="secret-key">
+    <input type="hidden" name="secret-key">
     <br><br>
     <input type="submit" value="ثبت نام" name="" id="">
   </form>
