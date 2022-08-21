@@ -27,8 +27,10 @@ Cascade Style Sheet
 
 #### important
 
-```h1{\r\n
+```
+h1{
 color: red !important;
+}
 ```
 
 #### Inheritance
