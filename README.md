@@ -26,13 +26,13 @@ Cascade Style Sheet
 دقیقتر مشخص کردن
 
 #### important
-`h1{`
-`color: red !important;`
-`}`
 
+```h1{\r\n
+color: red !important;
+```
 
-#### Inheritance 
+#### Inheritance
 
-ارث بری 
+ارث بری
 
 به این معنا که هر المانی قواعد سی اس اس والدین خودش را به ارث میبرد. مگر اینکه آن قاعده در سی اس اس مشخصا برای آن المان تعریف شده باشد.
