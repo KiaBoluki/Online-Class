@@ -1,7 +1,20 @@
-h1{
-  color: blue;
+.red{
+  color: green;
 }
 
-p{
+span.windows{
+  color: blue;
+  background-color: yellow;
+}
+
+.reserved{
+  color: green;
+}
+
+.registered{
   color: red;
+}
+
+#reg{
+  color: purple;
 }
