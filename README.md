@@ -29,7 +29,7 @@ Cascade Style Sheet
 
 ```
 h1{
-color: red !important;
+  color: red !important;
 }
 ```
 
