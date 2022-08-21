@@ -27,7 +27,7 @@ Cascade Style Sheet
 
 #### important
 
-```
+```css
 h1{
   color: red !important;
 }
