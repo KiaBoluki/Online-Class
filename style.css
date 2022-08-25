@@ -17,7 +17,13 @@ p span {
 }
 
 body{
-  background-color: green;
+  background-color: rgb(27, 9, 4);
+  background-color: #ffffff;
+  background-color: #ff00ee;
+  background-color: #2b0228;
+  background-color: hsl(44, 98%, 50%);
+
+  background-color: rgba(0,0,0,0);
 }
 
 div.card {
@@ -35,4 +41,9 @@ div.card h1{
 div.card a {
   color: black;
   background-color: gray;
+}
+
+p{
+  background-color: grey;
+  color: white !important;
 }
