@@ -1,0 +1,296 @@
+commit a8bcefd9591b26cf0e0478f3c363f196f29b51a8
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 30 12:49:24 2022 +0400
+
+    get practices
+
+commit e45e04e01fb07cdcd319c9e9c708c5d60ce25093
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 25 13:26:29 2022 +0400
+
+    color explained
+
+commit 798dca54f838f27372f278e72d73f6b176f2b932
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:55:51 2022 +0400
+
+    -
+
+commit 1b69770484cf586cffcaa763146952c92dddeffc
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:53:35 2022 +0400
+
+    -
+
+commit 10879b8581d35454d11104c255c5e0361f605957
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:52:50 2022 +0400
+
+    -
+
+commit 8d58804e0350c81b56376cb6e3d1edb8b82d73fe
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:51:31 2022 +0400
+
+    readme
+
+commit f87c76ae5d5429e356c2fdb969b475a194893b66
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:43:16 2022 +0400
+
+    priority , inheritance, specificity explained
+
+commit 937515380669d67a1e37469d2daaca758657121c
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 13:06:22 2022 +0400
+
+    selectors explained
+
+commit 188e278dfc1863ee1565bc47c9b2f3e1f279b9ae
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 21 12:35:30 2022 +0400
+
+    css writing
+
+commit 27ae6394aa3ec6df171cd8b511d53bb7b971d5fd
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 18 13:27:05 2022 +0400
+
+    video , audio explained
+
+commit 183215d3bca99d9db73a959ca11cd92cc6f496bd
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 18 13:02:49 2022 +0400
+
+    explainded
+
+commit 2368f79452b773700fe5a4f1dc48aac409dd206a
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 18 12:37:21 2022 +0400
+
+    practice reciept
+
+commit 8759539fa0cf03bc3bd79b67890a8945717f0d2f
+Merge: df62ba6 51af8e8
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 14 14:04:19 2022 +0400
+
+    Merge branch '13-meta'
+
+commit 51af8e840bd8168c06474571d3e389d30eee6fdb
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 14 14:02:48 2022 +0400
+
+    meta tags explained
+
+commit 791c88cd920e53ce2efb7db1171211524d779337
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 14 13:45:15 2022 +0400
+
+    iframe explained
+
+commit 6ea14851a3a89db8727254d83993f57f9347fb76
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 14 13:26:37 2022 +0400
+
+    id and class complete
+
+commit 1caa5d5910de59107a0db727fb3fd37cdb58adb9
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 14 12:54:15 2022 +0400
+
+    -
+
+commit df62ba6485d75582d5637e5f907123007403d9ff
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 11 13:28:12 2022 +0400
+
+    submit practice 09
+
+commit 25c5c564171267e4405701da893e25c0c46a1c93
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 7 13:46:28 2022 +0400
+
+    form validaion complete
+
+commit 8d722bdcdd26b01f4bade1a6dcf0ba028bde3856
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 7 13:18:05 2022 +0400
+
+    form complete
+
+commit 497c5267a2ccfd53a07df0021ca7976a01e22567
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Aug 7 12:41:38 2022 +0400
+
+    readme
+
+commit dd5cbeacce6acfdf6c622e41d87d19d6fb907313
+Merge: c99e721 bb311e4
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 15:52:02 2022 +0400
+
+    readme
+
+commit c99e7219685e27a0476ce03f7f63631fe1f60e5e
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 15:50:53 2022 +0400
+
+    readme
+
+commit 2bb0362c0e8aea46890b00f3bc07e93656546755
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 15:48:57 2022 +0400
+
+    readme
+
+commit bb311e4dfa8f1b13e8b53438b3ddb95ba071ec5f
+Merge: cef5021 79d50ca
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 13:58:31 2022 +0400
+
+    readme
+
+commit cef50218dcd655a5c0f68a55e31bced96c60b5b5
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 13:55:52 2022 +0400
+
+    second section complete
+
+commit 804347cbea6480ddb007233c3a856a19d7f388b5
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Aug 4 13:55:34 2022 +0400
+
+    second section complete
+
+commit 1941cffee241dd683d21e21f799a94415e00602b
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 2 14:01:50 2022 +0400
+
+    practice editted
+
+commit 79d50ca934e1c44050612f3d44874289bd505e20
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 2 14:01:50 2022 +0400
+
+    +
+
+commit d1995238bb87a1158b64840b0c072cb8354c00ef
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 2 13:58:50 2022 +0400
+
+    forms: radio
+
+commit 96a73db526c8129c7c0ae9da1f1fe69fd1306610
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 2 12:50:59 2022 +0400
+
+    get practice
+
+commit 7f3021530bdb35bfb762c1dfdd218159a2696dc1
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Aug 2 12:46:17 2022 +0400
+
+    receive practices
+
+commit 212efa9250527e5bda4e8f8c49ded13729050981
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Jul 31 13:26:26 2022 +0400
+
+    table completed
+
+commit 5018cbb1f1530b8db51a5f4ab1a9552164bc8505
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Jul 31 12:47:06 2022 +0400
+
+    initial: just add practice
+
+commit 74139db86a0d5a71d88ec3f152d458f1e55ff79a
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 28 14:26:00 2022 +0400
+
+    readme
+
+commit a18b5d96621a02e8cd69e3c535d127b0c9bfd5f1
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 28 14:24:47 2022 +0400
+
+    readme
+
+commit 35e283e3f15176cc7bab750599c7c4e687434808
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 28 13:54:28 2022 +0400
+
+    images complete
+
+commit bd11ace056bf4fd7cbd0df4254e7e96b46d6f904
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 28 13:01:47 2022 +0400
+
+    +
+
+commit 229ab4c06670a6b1799b4d561cc88dab4cf3146a
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 28 12:53:36 2022 +0400
+
+    class 06
+
+commit 41bea813415a3da9e3e94c26343939d97c1d0c79
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Jul 26 14:03:09 2022 +0400
+
+    complete links
+
+commit 9ac29bf1c49f12d4efce9d026fe6f73ee458ba52
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Tue Jul 26 13:01:32 2022 +0400
+
+    add practices
+
+commit fcb486a3d07bf42511b8f5095c3a12b54f125f46
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Jul 24 14:43:56 2022 +0400
+
+    readme
+
+commit b3b770e53dc67a78ae8a9c5f42bd523f47c46b13
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Jul 24 13:39:53 2022 +0400
+
+    Links :
+        Describe:
+            URL
+            Relative Address:
+                Find a page inside current folder
+                Find a page inside another folder
+
+commit 98439d58d8aa44eda17692ad0817befc0d30145e
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Sun Jul 24 13:10:37 2022 +0400
+
+    lists
+
+commit b8d117b6bfb45b6092c43dfecd2e67879166ec8d
+Author: KiaBoluki <kia.boluki@gmail.com>
+Date:   Thu Jul 21 14:11:00 2022 +0400
+
+    secont class
+
+commit d0e1cb9998ee5881beaf0414c8ec715692d90be3
+Merge: f11daff b980015
+Author: Kia Boluki <kia.boluki@gmail.com>
+Date:   Thu Jul 21 14:05:02 2022 +0400
+
+    -
+
+commit f11daff9e6bfab9794c898142acae5c1798682b7
+Author: Kia Boluki <kia.boluki@gmail.com>
+Date:   Thu Jul 21 13:58:49 2022 +0400
+
+    one
+
+commit b98001549374340361202d129e852a02d33445da
+Author: Kia Boluki <kia.boluki@gmail.com>
+Date:   Thu Jul 21 13:55:20 2022 +0400
+
+    Initial commit

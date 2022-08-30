@@ -1,49 +1,9 @@
-h1{
-  color: red ; 
-  background-color: white;
-}
-
-.red{
-  color: green !important;
-}
-
-#reg{
-  color: purple;
-}
-
-p span {
-  color: red;
-
-}
-
-body{
-  background-color: rgb(27, 9, 4);
-  background-color: #ffffff;
-  background-color: #ff00ee;
-  background-color: #2b0228;
-  background-color: hsl(44, 98%, 50%);
-
-  background-color: rgba(0,0,0,0);
-}
-
-div.card {
-  width: 300px;
-  height: 300px;
-  background-color: yellow;
-  color: black ;
-}
-
-div.card h1{
-  color: black;
-  background-color: orange;
-}
-
-div.card a {
-  color: black;
-  background-color: gray;
-}
-
 p{
-  background-color: grey;
-  color: white !important;
+  font-family: sans-serif;
+  font-size: 1rem; /* 16px */
 }
+
+h1{
+  font-family: "Wide Latn", sans-serif, monospace ;
+}
+
