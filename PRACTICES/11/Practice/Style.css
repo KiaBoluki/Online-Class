@@ -1,0 +1,39 @@
+.ozep{
+    color: blue;
+    background-color: yellow;
+  }
+  .H{
+    color: green;
+  }
+  
+  span.G{
+    color: blue;
+    background-color: yellow !important;
+  }
+  
+  .T{
+    color: green;
+  }
+  
+  .D{
+    color: red;
+  }
+  
+  #lala{
+    color: rgb(248, 0, 0) !important;
+  }
+  h1{
+    background-color: #fff ;
+  }
+  h2{
+    background-color: #ffee00;
+  }
+  h4{
+    background-color: rgb(120, 230, 20);
+  }
+  h5{
+    color: hsl(10, 150, 56);
+  }
+  h6{
+    background-color: rgba(12, 20, 16, 0.1);
+  }
