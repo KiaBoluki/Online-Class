@@ -1,0 +1,27 @@
+body {
+  /* background: linear-gradient(to bottom left, #114252 50%, #fa9999);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 50vh;view port height */
+
+  /* background: url('./vids/bg.mp4');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  background-size: cover; */
+  overflow: hidden;
+}
+
+span {
+  background-color: yellowgreen;
+}
+h4 {
+  color: red;
+}
+.fontstyle {
+  font-family: cursive;
+}
+
+video{
+  width: 100vw;
+}
