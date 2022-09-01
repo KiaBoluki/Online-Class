@@ -1,9 +1,35 @@
+@font-face {
+  font-family: "Lemon" ;
+  src: url("./fonts/LEMONMILK.woff");
+}
+
+@font-face {
+  font-family: "Lemon-2";
+  src: url("./fonts/LEMONMILK.woff2");
+}
+
+body{
+  direction: rtl;
+}
+
+
 p{
   font-family: sans-serif;
   font-size: 1rem; /* 16px */
+
+  line-height: 1rem;
+  
+  letter-spacing: -0rem;
+
+  word-spacing: -0rem;
+  
+  text-align: start;
+
 }
 
 h1{
-  font-family: "Wide Latn", sans-serif, monospace ;
+  font-family: "Lemon-2","Lemon";
+  font-style: italic;
+  text-decoration: none;
 }
 
