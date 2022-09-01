@@ -129,7 +129,7 @@ server = سرویس دهنده
 
 ### font-style
 
-normal = صاف مینویسه <br/>
+<strong>normal</strong> = صاف مینویسه <br/>
 italic = کج مینویسد <br/>
 oblique = کجتر مینویسد <br/>
 
