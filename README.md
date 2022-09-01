@@ -129,9 +129,17 @@ server = سرویس دهنده
 
 ### font-style
 
-<strong>normal</strong> = صاف مینویسه <br/>
-italic = کج مینویسد <br/>
-oblique = کجتر مینویسد <br/>
+<ol>
+  <li>
+    <strong>normal</strong> = صاف مینویسه 
+  </li>
+  <li>
+    <strong>italic</strong> = کج مینویسد
+  </li>
+  <li>
+    <strong>oblique</strong> = کجتر مینویسد
+  </li>
+</ol>
 
 ### text-transform
 
