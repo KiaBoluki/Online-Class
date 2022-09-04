@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to bottom left, #114252, #fa9999 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+span {
+  background-color: yellowgreen;
+}
+h4 {
+  color: red;
+}
+
+@font-face {
+  font-family: "diamond signature";
+  src: url("./fonts/diamond-2.woff");
+}
+h1 {
+  font-size: 1rem;
+
+  line-height: 1rem;
+
+  letter-spacing: -0rem;
+
+  word-spacing: -0rem;
+
+
+}
+p {
+  font-family: "diamond signature";
+  font-style: italic;
+  text-decoration: none;
+  font-size: 2rem;
+}
