@@ -12,6 +12,25 @@ body{
   direction: rtl;
 }
 
+p.blue{
+  color: brown;
+}
+
+p.blue:first-line{
+  font-size: 2rem;
+  line-height: 2rem;
+  font-family: monospace;
+}
+
+p.blue::first-letter{
+  color: red;
+  font-size: 4rem;
+  border: 3px solid red;
+  padding: 3px;
+  line-height: 5rem;
+  font-weight: bold;
+}
+
 
 p{
   font-family: sans-serif;
@@ -31,5 +50,39 @@ h1{
   font-family: "Lemon-2","Lemon";
   font-style: italic;
   text-decoration: none;
+}
+
+a:link{ /* حالت طبیعی لینک قبل از اینکه روش کلیک بشود */
+  color: brown; 
+  font-size: 2rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 23px;
+  text-decoration: underline;
+  text-shadow: 3px 3px 3px rgba(0,0,0,.5);
+}
+
+a:hover{
+  text-shadow: none;
+  color: green; 
+}
+
+a:active{
+  color: red; 
+  border: 3px solid red; 
+  text-shadow: none;
+  padding: 5px; 
+}
+a:visited{
+  color: pink; 
+  text-shadow: none;
+  padding: 5px; 
+}
+
+a:focus{
+  color: red; 
+  border: 3px solid red; 
+  text-shadow: none;
+  padding: 5px; 
+  outline: none;
 }
 
