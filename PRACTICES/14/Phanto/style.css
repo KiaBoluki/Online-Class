@@ -1,40 +1,44 @@
+*{
+  outline: 1px solid white;
+}
+
 body {
-    background: linear-gradient(to bottom left, #b700ff , #d86100 100%);
-background-repeat: no-repeat;
-background-size: cover;
+  background: linear-gradient(to bottom left, #b700ff, #d86100 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
 }
 
 
-   span{
-    background-color: yellowgreen;
-   } 
-   h4{
-    color: red;
-   }
+
+span {
+  background-color: yellowgreen;
+}
+h4 {
+  color: red;
+}
 
 @font-face {
-    font-family:"diamond signature" ;
-    src: url(./Diamond_Signature_Handwritten_Font[faragraphic.com]/Diamond\ Signature.woff);
+  font-family: "diamond signature";
+  src: url(./Diamond_Signature_Handwritten_Font[faragraphic.com]/Diamond\ Signature.woff);
 }
-a{
-    font-size: 1rem;    
-
+a {
+  font-size: 1rem;
+  display: block;
   line-height: 1rem;
-  
+
   letter-spacing: -0rem;
 
   word-spacing: -0rem;
-  
+
   text-align: start;
-  
 }
-p{
-    font-family:"diamond signature";
+p {
+  font-family: "diamond signature";
   font-style: italic;
   text-decoration: none;
 }
-
-
 
 /* a.hyperx{
 border-color: black;
@@ -44,22 +48,22 @@ display: inline;
 margin: 2rem;
 display??} */
 
-.hyperx{
-  border: 1px solid #0caa13 ridge ;
+.hyperx {
   font-family: sans-serif;
   font-size: 1rem; /* 16px */
 
   line-height: 1rem;
-  
+
   letter-spacing: -0rem;
 
   word-spacing: -0rem;
-  
+
   text-align: start;
   border-color: red;
-  border-width: 5px; 
+  border-width: 5px;
   border-style: ridge;
-
+  border: 1px solid #0caa13;
+ 
   margin-top: 50px;
   margin-bottom: 150px;
 
@@ -67,18 +71,17 @@ display??} */
 
   margin: 70px;
 
-  padding-top: 2rem; 
-  padding-right: 2rem; 
-  padding-bottom: 1rem; 
-  padding-left: 3rem; 
+  padding-top: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
 }
-.razer{
+.razer {
   border: solid rgb(119, 0, 255) 6px;
   margin-top: 23px;
-  margin-bottom: 70px; 
-  margin-left: 45px; 
+  margin-bottom: 70px;
+  margin-left: 45px;
   margin-right: 23px;
   padding: 12px;
   display: inline-block;
 }
-
