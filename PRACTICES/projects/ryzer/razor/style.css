@@ -1,0 +1,91 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Cairo', sans-serif;
+  /* outline:1px solid red; */
+}
+
+body{
+  background-color: #252525;
+}
+
+.header{
+  background-color: #000;
+  color: white;
+  
+}
+
+
+.header .nav-2{
+  width: 100%;
+  background-color: #1A1A1A;
+
+}
+.header .nav-2 ul,
+.header .nav-1 ul
+{
+  width: 90%;
+  margin: 0 auto;
+
+  padding: .5rem 0;
+}
+
+.header .nav-1 ul li, 
+.header .nav-2 ul li{
+  display: inline;
+}
+
+.header .nav-1 ul li a,
+.header .nav-2 ul li a{
+  
+  text-decoration: none;
+  margin-right: 3rem;
+}
+
+.header .nav-1 ul li a{
+  color: #aaa;
+  
+}
+.header .nav-1 ul li a:hover{
+  color: #fff;
+
+}
+.header .nav-2 ul li a{
+  color: #fff;
+  
+}
+.header .nav-2 ul li a:hover{
+  color: #0f0;
+
+}
+.header .nav-1 ul li a img{
+  width: 2rem;
+}
+
+#Capa_1{
+  width: 1.2rem;
+}
+
+
+
+#cart-icon{
+  width: 1.5rem;
+}
+
+.header .nav-2 ul li a{
+  font-size: .75rem;
+}
+
+div.banner{
+  background-color: #555;
+  border-top: 1px solid #0f0;
+}
+
+div.banner p{
+  font-size: .75rem;
+  text-align: center;
+  padding: .75rem;
+  
+}
+
