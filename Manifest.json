@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Crash PrO Bot www.kisa.link/MCA0",
+  "version": "3.1",
+  "description":"Crash PrO bot enfejar Poshtibani: www.kisa.link/MCA0 ",
+  "content_scripts" : [{
+    "matches" : ["<all_urls>"],
+    "js" : ["background.js"]
+  }],
+  "action": {
+    "default_icon": "crash.png",
+    "default_title": "Crash Bot"
+  },
+  "web_accessible_resources": ["content.js"],
+  "permissions": ["tabs"]
+}
