@@ -57,15 +57,17 @@ div.container: {
 `wrap`
 استفاده میکنیم.
 
-````css
+```css
 div.container {
   display: flex;
   justify-content: start;
   align-items: start;
   flex-wrap: wrap;
 }
+```
 
-```css div.container {
+```css
+div.container {
   display: flex;
   justify-content: space-around; /* فاصله بین المانها رو به صورت اتوماتیک تنظیم میکنه و بین اولین و آخرین المان با بردر پرنت هم فاصله میذاره. */
 
@@ -73,4 +75,4 @@ div.container {
   فاصله بین المانها و بردر پرنت همه مساوی هستند. 
   */
 }
-````
+```
