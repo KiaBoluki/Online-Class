@@ -1,4 +1,2 @@
-# OnlineClass
-
-کدهای مربوط به درس های آنلاین 
-هر درس یا جلسه رو میتونید توی شاخه خودش پیدا کنید
+# Online-Class
+Online Classes Codes
